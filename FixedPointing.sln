@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FixedPointing", "FixedPointing\FixedPointing.vcxproj", "{4A9FB588-0E34-4389-AE57-0127E5A06098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9FB588-0E34-4389-AE57-0127E5A06098}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A9FB588-0E34-4389-AE57-0127E5A06098}.Debug|Win32.Build.0 = Debug|Win32
+		{4A9FB588-0E34-4389-AE57-0127E5A06098}.Release|Win32.ActiveCfg = Release|Win32
+		{4A9FB588-0E34-4389-AE57-0127E5A06098}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
